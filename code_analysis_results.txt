@@ -1,0 +1,68 @@
+CODE ANALYSIS RESULTS
+============================================================
+
+[SINGLE] BNS085: Single product found in iframe (Products: 1)
+[SINGLE] HT005: Single product found in iframe (Products: 1)
+[SINGLE] OBLICUO001: Single product found in iframe (Products: 1)
+[SINGLE] KW053: Single product found in iframe (Products: 1)
+[SINGLE] 2CENACID: Single product found in iframe (Products: 1)
+[SINGLE] MARU006: Single product found in iframe (Products: 1)
+[SINGLE] RELIKTORIGINALS006: Single product found in iframe (Products: 1)
+[SINGLE] VAM08: Single product found in iframe (Products: 1)
+[SINGLE] DCY030: Single product found in iframe (Products: 1)
+[SINGLE] SNDRV4: Single product found in iframe (Products: 1)
+[SINGLE] XIII006: Single product found in iframe (Products: 1)
+[SINGLE] SH011V: Single product found in iframe (Products: 1)
+[SINGLE] SNLR002: Single product found in iframe (Products: 1)
+[SINGLE] VRLTD001: Single product found in iframe (Products: 1)
+[SINGLE] VRV012: Single product found in iframe (Products: 1)
+[SINGLE] CYPHN08: Single product found in iframe (Products: 1)
+[SINGLE] FXHEJFINE: Single product found in iframe (Products: 1)
+[MULTIPLE] MNR007: Multiple products found in iframe (Products: 2)
+[SINGLE] KITTO4: Single product found in iframe (Products: 1)
+[SINGLE] SATYA012: Single product found in iframe (Products: 1)
+[SINGLE] SUSH65: Single product found in iframe (Products: 1)
+[SINGLE] NRSS001: Single product found in iframe (Products: 1)
+[SINGLE] CBV001: Single product found in iframe (Products: 1)
+[MULTIPLE] LTH004: Multiple products found in iframe (Products: 2)
+[MULTIPLE] QV002: Multiple products found in iframe (Products: 2)
+[SINGLE] DINGHY003: Single product found in iframe (Products: 1)
+[SINGLE] BNS086: Single product found in iframe (Products: 1)
+[SINGLE] MINDCUT23: Single product found in iframe (Products: 1)
+[SINGLE] RAWQTR003: Single product found in iframe (Products: 1)
+[SINGLE] BLT001: Single product found in iframe (Products: 1)
+[SINGLE] TGPEXTRA007: Single product found in iframe (Products: 1)
+[SINGLE] KW052: Single product found in iframe (Products: 1)
+[SINGLE] NRLTD021: Single product found in iframe (Products: 1)
+[SINGLE] TGPXLDG000: Single product found in iframe (Products: 1)
+[SINGLE] SBCV009: Single product found in iframe (Products: 1)
+[MULTIPLE] WH03/21: Multiple products found in iframe (Products: 4)
+[MULTIPLE] RT002: Multiple products found in iframe (Products: 4)
+[MULTIPLE] MSR002: Multiple products found in iframe (Products: 2)
+[SINGLE] LOT001: Single product found in iframe (Products: 1)
+[SINGLE] GMV03: Single product found in iframe (Products: 1)
+[MULTIPLE] MDT07: Multiple products found in iframe (Products: 2)
+[MULTIPLE] RETRO2: Multiple products found in iframe (Products: 2)
+[SINGLE] FW033: Single product found in iframe (Products: 1)
+[SINGLE] SENOID008: Single product found in iframe (Products: 1)
+[SINGLE] NEXV002: Single product found in iframe (Products: 1)
+[SINGLE] FLIPS007: Single product found in iframe (Products: 1)
+[SINGLE] ANT002: Single product found in iframe (Products: 1)
+[SINGLE] RCR007: Single product found in iframe (Products: 1)
+[SINGLE] FREED1201: Single product found in iframe (Products: 1)
+[SINGLE] ASCY01: Single product found in iframe (Products: 1)
+[SINGLE] DGS004: Single product found in iframe (Products: 1)
+[SINGLE] DTW004: Single product found in iframe (Products: 1)
+[SINGLE] NBASTWAX016: Single product found in iframe (Products: 1)
+[STATIC_HTML] REPEAT12: Iframe not found - only checking static HTML (Products: 0)
+[SINGLE] 221453: Single product found in iframe (Products: 1)
+[SINGLE] REPEAT20: Single product found in iframe (Products: 1)
+
+============================================================
+SUMMARY
+============================================================
+Total codes analyzed: 56
+Single result: 47
+Multiple results: 8
+Static HTML only: 1
+Errors: 0
